@@ -6,4 +6,6 @@
 ### - How should we tailor marketing and communication strategies to customer behaviors?
 ### - How much can we spend on acquiring new customers?
 
+### Tools
 #### SQLite is used for project because of its simplicity and ease of setup. 
+
